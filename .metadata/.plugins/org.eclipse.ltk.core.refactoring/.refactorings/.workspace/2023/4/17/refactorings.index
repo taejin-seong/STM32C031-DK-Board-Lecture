@@ -1,0 +1,6 @@
+1682220851231	Delete resource 'stm32c0_scan_dma/Debug'
+1682220906609	Delete resource 'stm32c0_scan_dma/stm32c0_adc Debug.launch'
+1682220938423	Rename resource 'stm32c0_scan_dma'
+1682220946510	Delete resource 'stm32c0_adc_scan_dma'
+1682221013187	Delete resource 'stm32c0_adc_scan_dma/Debug'
+1682221027943	Delete resource 'stm32c0_adc_scan_dma/stm32c0_adc Debug.launch'

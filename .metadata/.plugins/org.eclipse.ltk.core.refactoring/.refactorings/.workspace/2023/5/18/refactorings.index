@@ -1,0 +1,8 @@
+1682934028294	Delete resource 'stm32c0_button/Debug'
+1682934036465	Delete resource 'stm32c0_button/stm32c0_adc_scan_dma Debug.launch'
+1682934141528	Delete resource 'stm32c0_adc_scan_dma/App/src/button.c'
+1682934148046	Delete resource 'stm32c0_adc_scan_dma/App/include/button.h'
+1682942702725	Delete resource 'stm32c0_pwm/stm32c0_pwm Debug (1).launch'
+1682942715435	Delete resource 'stm32c0_pwm/stm32c0_pwm Debug.launch'
+1682942866049	Delete resource 'stm32c0_pwm/stm32c0_pwm.ioc'
+1682943369820	Delete resource 'stm32c0_pwm/stm32c0_pwm Debug.launch'

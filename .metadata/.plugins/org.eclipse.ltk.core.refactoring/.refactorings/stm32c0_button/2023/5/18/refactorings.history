@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;stm32c0_button/stm32c0_adc_scan_dma.ioc&apos; to &apos;stm32c0_button.ioc&apos;" description="Rename resource &apos;stm32c0_adc_scan_dma.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="stm32c0_adc_scan_dma.ioc" name="stm32c0_button.ioc" stamp="1682934061255" updateReferences="true"/>
+</session>

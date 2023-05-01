@@ -1,0 +1,28 @@
+/*
+ * button.c
+ *
+ *  Created on: 2023. 5. 1.
+ *      Author: xowls
+ */
+
+
+#include "button.h"
+
+
+
+
+
+bool buttonInit(void)
+{
+
+}
+
+bool buttonGetPressed(uint8_t ch)
+{
+
+}
+
+uint32_t buttonGetData(uint8_t ch)
+{
+
+}
