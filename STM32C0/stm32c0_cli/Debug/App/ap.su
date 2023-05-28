@@ -1,0 +1,3 @@
+../App/ap.c:78:6:infoCli	24	static
+../App/ap.c:27:6:apInit	8	static
+../App/ap.c:48:6:apMain	8	static
