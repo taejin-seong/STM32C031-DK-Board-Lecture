@@ -1,0 +1,4 @@
+../App/ap.c:27:6:ledISR	8	static
+../App/ap.c:99:6:infoCli	24	static
+../App/ap.c:39:6:apInit	24	static
+../App/ap.c:69:6:apMain	8	static
