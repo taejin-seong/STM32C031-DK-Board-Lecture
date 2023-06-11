@@ -1,0 +1,3 @@
+../App/src/wdg.c:22:6:wdgInit	0	static
+../App/src/wdg.c:34:6:wdgBegin	8	static
+../App/src/wdg.c:60:6:wdgRefresh	8	static
