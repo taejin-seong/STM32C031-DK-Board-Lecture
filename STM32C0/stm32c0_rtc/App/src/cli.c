@@ -214,6 +214,15 @@ bool cliMain(void)
   		uartPrintf(cli_ch,  "cli# ");
   	}
 
+  	else if (rx_data == 0x08) //Backspace Key input
+  	{
+  		if (cli_buf_index > 0)
+  		{
+  			cli_buf_index--;
+  			uartPrintf(cli_ch, "\b \b");
+  		}
+  	}
+
   	else if (cli_buf_index < (128 - 1))
   	{
   		cli_buf[cli_buf_index] = rx_data;
